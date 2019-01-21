@@ -1,0 +1,51 @@
+
+
+img {
+	vertical-align: middle;
+}
+
+.buttonStyle {
+	background-color: blue;
+	width: 100px;
+	height: 40px;
+
+	color: white;
+	white-space: normal;
+
+}
+
+#tagGuess {
+/*	background-color: grey;*/
+	margin:5px;
+	border: 2pt solid;
+	border-color: rgba(0,0,255,0.2);
+}
+
+#containerImage {
+
+	border: 2pt solid;
+	border-color: rgba(0,0,255,0.2);
+	margin: 5px;
+
+}
+
+#paraInfo {
+	margin:5px;
+	border: 2pt solid;
+	border-color: rgba(0,0,255,0.2);
+	font-family: Arial;
+	font-size: 10pt;
+	padding: 5pt;
+
+}
+
+#resetButton {
+	color: white;
+	background-color: red;
+	width: 100px;
+	height: 40px;
+	border: 2pt solid;
+	border-color: rgba(0,0,255,0.2);
+	margin: 5px;
+
+}
