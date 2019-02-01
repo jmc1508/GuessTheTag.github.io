@@ -107,6 +107,7 @@
 			let randomTag = randomTagGenerator(arrayTag);
 			// list.innerHTML='';
 			// getTaggedePhotos(randomTag);
+			location.reload();
 
 
 			return true;
